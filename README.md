@@ -1,9 +1,10 @@
 # Livraria World Book
 
-
-![imagem do site](img/Captura de tela_2-12-2024_83256_gabiitorcatee.github.io.jpeg)
+![imagem do site](img/imagem_do_site.jpeg)
 
 Este projeto consiste em um site fictício para a venda de livros. O objetivo é explorar conceitos de controle de versão e colaboração usando o Git, desde a configuração inicial até a entrega final. Além disso, reforça o entendimento na criação de sites.
+### Documentação
+As etapas e os desafios enfrentados foram descritos neste documento [DOCUMENTATION.md](DOCUMENTATION.md).
 
 ## Objetivos do Projeto
 - Criar uma interface simples e funcional para um site de vendas.
@@ -34,4 +35,4 @@ Este projeto consiste em um site fictício para a venda de livros. O objetivo é
 
 ## Autor
 Desenvolvido por **Gabriele**.
-![Imagem do Site](img/456551088_1735651660596967_826850936348682840_n minha img.jpg)
+![Imagem do Site](img/minha_img.jpg)
