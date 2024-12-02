@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #8168d4;
     color: white;
     padding: 10px 0;
 }
@@ -55,7 +55,7 @@ nav ul li a {
 
 .banner p {
     font-size: 18px;
-    color: #666;
+    color: #a894e8;
 }
 
 .livros {
@@ -90,7 +90,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #333;
+    background-color: #8168d4;
     color: white;
     text-align: center;
     padding: 10px 0;
