@@ -20,4 +20,4 @@ Este projeto foi divertido de desenvolver, apesar de ser complicado a configura√
 
 ## Autor
 Desenvolvido por **Gabriele**.
-![Imagem do Site](img\minha_img.jpg.jpg)
+![Imagem do Site](https://raw.githubusercontent.com/Gabiitorcatee/Books/d2227d5cfa36e9c8d8bf14874a67ce440158e959/img/minha_img.jpg.jpg)
