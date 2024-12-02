@@ -34,5 +34,7 @@ As etapas e os desafios enfrentados foram descritos neste documento [DOCUMENTATI
    git clone https://github.com/Gabiitorcatee/Books.git
 
 ## Autor
-Desenvolvido por **Gabriele**.
-![Imagem do Site](https://raw.githubusercontent.com/Gabiitorcatee/Books/d2227d5cfa36e9c8d8bf14874a67ce440158e959/img/minha_img.jpg.jpg)
+Desenvolvido por **Gabriele**.  
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Gabiitorcatee/Books/d2227d5cfa36e9c8d8bf14874a67ce440158e959/img/minha_img.jpg.jpg" alt="Imagem do Autor" width="150px">
+</div>
