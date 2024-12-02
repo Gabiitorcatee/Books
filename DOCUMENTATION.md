@@ -20,4 +20,4 @@ Este projeto foi divertido de desenvolver, apesar de ser complicado a configura√
 
 ## Autor
 Desenvolvido por **Gabriele**.
-![Imagem do Site](img/minha_img.jpg)
+![Imagem do Site](img\minha_img.jpg.jpg)
